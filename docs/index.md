@@ -1,4 +1,4 @@
-{ % include nav.html % }
+{ % include _layouts/nav.html % }
 
 ## Welcome to GitHub Pages
 
