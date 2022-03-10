@@ -1,3 +1,5 @@
+{% include nav.html %}
+
 # Data Structures Project
 
 ## [GitHub](https://github.com/PunarvasuS/DataStructures/)
