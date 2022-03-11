@@ -1,10 +1,8 @@
 {% include nav.html %}
 
-## Purpose
+# Hi! I'm Punarvasu Sangam, and here's the documentation for my Data Structures 1 class:
 
-To organize all of my individual GitHub Pages into one place.
-
-### [TPS Notes & Actions](https://punarvasus.github.io/DataStructures/tps)
+### [TPS Notes & Questions](https://punarvasus.github.io/DataStructures/tps)
 
 ### [Project](https://punarvasus.github.io/DataStructures/project)
 
