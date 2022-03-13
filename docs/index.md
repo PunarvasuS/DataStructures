@@ -1,6 +1,6 @@
 {% include nav.html %}
 
-# Hi! I'm Punarvasu Sangam, and here's the documentation for my Data Structures 1 class:
+# Punarvasu Sangam's Data Structures Documentation
 
 # [TPS Notes & Questions](https://punarvasus.github.io/DataStructures/tps)
 
