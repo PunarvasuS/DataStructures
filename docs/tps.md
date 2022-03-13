@@ -16,12 +16,12 @@
 Pros and Cons of Innovation
 - Multirotor drone
   - Pros
-    - delivery, finding lost people, easy aerial photography
+        - delivery, finding lost people, easy aerial photography
   - Cons
-    - privacy concerns, flying in unregulated zones
+        - privacy concerns, flying in unregulated zones
   - Wii Controller
-    - Benefit - gets people active playing video games
-    - Harmful - Broken TV's and injuries
+        - Benefit - gets people active playing video games
+        - Harmful - Broken TV's and injuries
 
 - Not all effects of a computing innovation are anticipated
 - same effect can be viewed as both beneficial and harmful
