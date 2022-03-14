@@ -1,10 +1,11 @@
 {% include nav.html %}
 
-# Create Task
+# [Create Task Explanation](https://github.com/PunarvasuS/DataStructures/files/8248190/Y9X51UY1_WR.pdf)
 
 ## [Runtime](https://replit.com/@LordPotashmallo/Menu?v=1)
 
 ## Requirements
+
 
 - Input
 - Data Collection
