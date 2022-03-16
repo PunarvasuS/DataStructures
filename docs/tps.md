@@ -6,31 +6,42 @@
 
 ### 5.3
 
-#### Video 1
+#### Video 1: Data
 
 - Explicit Data
--   data you directly give
+  - data you directly give
 - Implicit Data 
--   data collected from streams (not intentionally given)
--   innovations can show human biases from hard-coded bias, or in dataset
--   computing innovations can reflect human biases because of biases written into the algorithms or in data used by innovation
--   programmers should combat human bias by reducing algorithmical bias
--   Biases can be at all levels of software development
--   All software can be biased (unintentional or intentional)
-- important questions to ask about bias
--   enhancing or intentionally excluding?
--   intentionally harmful/hateful?
--   receiving feedback from a wide variety of people? 
+  - data collected from streams (not intentionally given)
+  - innovations can show human biases from hard-coded bias, or in dataset
+  - computing innovations can reflect human biases because of biases written into the algorithms or in data used by innovation
+  - programmers should combat human bias by reducing algorithmical bias
+  - Biases can be at all levels of software development
+  - All software can be biased (unintentional or intentional)
+  - important questions to ask about bias
+  - enhancing or intentionally excluding?
+  - intentionally harmful/hateful?
+  - receiving feedback from a wide variety of people? 
 
-#### TPS Questions
+#### TPS Questions: [HP Computers Are Racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)
 
-
+Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
+- Does the owner of the computer think this was intentional?
+  - No, he does not think it's intentional
+- If yes or no, justify you conclusion.
+  - He's laughing and thinks it's funny, the title is just to grab attention.
+- How do you think this happened?
+  - The creaters of the HP computer were all probably white, meaning they tuned the camera to white faces; the training data was biased
+- Is this harmful? Was it intended to be harmful or exclude?
+  - This is harmful, as it excludes black users from using the camera focusing feature. It was (probably) not intented, as this video was uploaded to YouTube in 2009, where we were quite progressive.
+- Should it be corrected?
+  - Yes, it should be corrected. 
+- What would you or should you do to produce a better outcome?
+  - Include black people from all over the world in the training data to make sure that the camera also focuses on them.
 
 ### 5.4
 
-#### Video 1
+#### Video 1: Public Data Sets
 
-- Public Data Sets
 - Kaggle
   - courses in visualization, TensorFlow, AI, machine learning and more competitions
   - Notebooks - code, data, notes
@@ -42,17 +53,19 @@
 - distributed computing can be crowd sourced, too:
   - AlphaFold
   - Folding@Home
-   - i actually used this program a while back, not for long though
+   - i actually used this program a while back, not for long though (too resource-intensive)
   - BOINC
   - Innovations made possible by crowdsourcing
   - Spotify
   - Blockchain
   - Crowdfunding 
 
-#### TPS Questions
+#### TPS Questions: Crowdsourcing
 
-
-
+CS P has 150 students. Describe a crowdsource idea and how you might initiate it in our environment?
+- Our idea for our website could very well use crowdsourcing. We're planning on having a site that has movie reviews.
+What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+- We could colelct movie revies from Del Norte students, and then include the average of those reviews as one of our reviews on the site.
 ## 3/7/22 5.1 - 5.2 Notes
 
 ### 5.1 
@@ -148,16 +161,90 @@ I ran into this problem in Spanish, where I physically could not answer some que
 
 ### 5.5
 
-#### Video 1
+#### Video 1; Intellectual Property
 
-#### Video 2
+- a work or invention that is the result of creativity to which one has rights 
+- Copyright 
+  - protects IP
+  - keeps anyone from using it w/o express permission 
+- Plagiarism 
+  - presenting someone else's material as your own
+- Legal ways to use others' material:
+  - open source
+  - open access
+- Creative Commons
+  - free licenses - you can say how others can use your IP
+- Open Source
+  - free for anyone to use
+  - may be redistributed and modified
+- Open Access
+  - online research output
+  - free of all access restrictions
+  - free of many restrictions on use (copyright or license restrictions)
 
 #### TPS Questions
 
 ### 5.6
 
-#### Video 1
+#### Video 1: Personally Identifiable Information - information specific to an individual
 
-#### Video 2
+- age
+- race
+- phone #
+- SSN
+- DoB
+- email
+- mailing address
+- medical info
+- credit card info
+- identity & $$$ theft, impersonation
+- Pros - enhance a user's online experience 
+- Cons - exploited if privacy and other protections are ignored
+
+#### Video 2: Authentication
+
+- protect devices and info from unauthorized access 
+- Measures 
+  - strong passwords 
+  
+  - 10<= characters 
+  - must contain 
+  - symbol 
+  - number 
+  - lower & uppercase letters 
+        - Multi-Factor Authentication
+          - Types of authentication 
+            - What you know 
+            - What you have 
+            - What you are 
+- Virus and Malware 
+  - malicious programs that ttry to access things they aren't supposed to
+  - often intended to damage computing system or take control 
+  - either pose as legitimate program or attached with legitimate program 
+- Encryption - encoding data to prevent unauthorized access 
+- Decryption - the process of decoding data
+- 2 Types of Encryption 
+  - Symmetric Encryption 
+        - uses one key to both encrypt and decrypt
+  - Asymmetric Encryption
+        - Public Key encryption - uses two keys
+          - a public key for encrypting
+          - a private key for decrypting 
+        - Sender does not need the receiver's private key to decrypt 
+        - the receiver's private key IS required to decrypt the message
+
+#### Video 3: Risks to Personal Safety 
+
+- Phishing - attempt to trick the user into providing personal info 
+- Phishing Emails 
+  - often look like they're from a company you trust 
+  - trick you into clicking a link or opening an attachment 
+  - clicking a link or opening an attachment in a phishing email will cause unexpected harm 
+  - virus installed on your computer 
+  - spoofed banking website 
+  - Keylogger
+        - records every keystroke to gain fraudulent access to passwords or other confidential info
+- Rogue Access Point 
+- a wireless network that can give unauthorized access to secure networks 
 
 #### TPS Questions
