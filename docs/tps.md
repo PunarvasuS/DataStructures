@@ -2,6 +2,57 @@
 
 # CB Notes + TPS Actions
 
+## 3/14/22 5.3 - 5.4 Notes
+
+### 5.3
+
+#### Video 1
+
+- Explicit Data
+-   data you directly give
+- Implicit Data 
+-   data collected from streams (not intentionally given)
+-   innovations can show human biases from hard-coded bias, or in dataset
+-   computing innovations can reflect human biases because of biases written into the algorithms or in data used by innovation
+-   programmers should combat human bias by reducing algorithmical bias
+-   Biases can be at all levels of software development
+-   All software can be biased (unintentional or intentional)
+- important questions to ask about bias
+-   enhancing or intentionally excluding?
+-   intentionally harmful/hateful?
+-   receiving feedback from a wide variety of people? 
+
+#### TPS Questions
+
+
+
+### 5.4
+
+#### Video 1
+
+- Public Data Sets
+- Kaggle
+  - courses in visualization, TensorFlow, AI, machine learning and more competitions
+  - Notebooks - code, data, notes
+- Google Public Datasets
+  - Free for 1st terabyte
+  - all in one package; uses BigQuery
+- Data.gov
+  - US government data
+- distributed computing can be crowd sourced, too:
+  - AlphaFold
+  - Folding@Home
+   - i actually used this program a while back, not for long though
+  - BOINC
+  - Innovations made possible by crowdsourcing
+  - Spotify
+  - Blockchain
+  - Crowdfunding 
+
+#### TPS Questions
+
+
+
 ## 3/7/22 5.1 - 5.2 Notes
 
 ### 5.1 
@@ -92,23 +143,6 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 The school Chromebooks even block some Chrome extensions, like foreign language accent extensions.
 I ran into this problem in Spanish, where I physically could not answer some questions because of this restriction.
 
-## 3/14/22 5.3 - 5.4 Notes
-
-### 5.3
-
-#### Video 1
-
-#### Video 2
-
-#### TPS Questions
-
-### 5.4
-
-#### Video 1
-
-#### Video 2
-
-#### TPS Questions
 
 ## 3/21/22 5.5 - 5.6 Notes
 
