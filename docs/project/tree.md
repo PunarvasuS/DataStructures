@@ -1,4 +1,4 @@
-## 3/9/22 - [Christmas Tree](https://replit.com/@LordPotashmallo/TreePyramid)
+## 3/9/22 - [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#tree.py)
 
 ```
 import math
