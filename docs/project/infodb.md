@@ -1,3 +1,4 @@
+{% include nav.html %}
 (% include project.html %)
 
 # 3/15/22 - [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#InfoDb.py)
