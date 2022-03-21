@@ -1,5 +1,5 @@
 {% include nav.html %}
-(% include project.html %)
+{% include project.html %}
 
 # 3/10/22 - [Menu](https://replit.com/@LordPotashmallo/Menu)
 
