@@ -1,3 +1,5 @@
+{% include project.html %}
+
 ## 3/10/22 - [Animation](https://replit.com/@LordPotashmallo/Menu#InfoDb.py)
 
 ```
