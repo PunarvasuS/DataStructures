@@ -1,3 +1,6 @@
+{% include nav.html %}
+{% include project.html %}
+
 ## 3/9/22 - [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#tree.py)
 
 ```
