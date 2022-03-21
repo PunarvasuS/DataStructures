@@ -1,8 +1,8 @@
 {% include nav.html %}
 {% include project.html %}
 
-# [My GitHub](https://github.com/PunarvasuS/DataStructures/)
-# [My Replit](https://replit.com/@LordPotashmallo/)
+# [GitHub](https://github.com/PunarvasuS/DataStructures/)
+# [Replit](https://replit.com/@LordPotashmallo/)
 
 # Data Structures Project
 
@@ -14,5 +14,3 @@
 | 3/10/22 - [Menu](https://punarvasus.github.io/DataStructures/menu) | [Menu](https://replit.com/@LordPotashmallo/Menu#main.py) |
 | 3/10/22 - [Animation](https://punarvasus.github.io/DataStructures/anim) | [Animation](https://replit.com/@LordPotashmallo/Menu#animation.py) |
 | 3/9/22 - [Christmas Tree](https://punarvasus.github.io/DataStructures/tree) | [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#tree.py) |
-
-
