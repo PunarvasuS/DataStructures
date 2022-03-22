@@ -8,7 +8,6 @@
 
 ## Timebox
 | Date | GH Page | Replit |
-|:------ |:----------- |:-------- |
 | 3/15/22 | [InfoDb Loops + Recursion](https://punarvasus.github.io/DataStructures/infodb) | [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#InfoDb.py) |
 | 3/10/22 | [Menu](https://punarvasus.github.io/DataStructures/menu) | [Menu](https://replit.com/@LordPotashmallo/Menu#main.py) |
 | 3/10/22 | [Animation](https://punarvasus.github.io/DataStructures/anim) | [Animation](https://replit.com/@LordPotashmallo/Menu#animation.py) |
