@@ -2,6 +2,104 @@
 
 # CB Notes + TPS Actions
 
+## Timebox
+
+| Name | Github Profile | Issues | Commits | Team Github |
+| - | - | - | - | - |
+| Byron Lu | [@byronlu06](https://github.com/byronlu06) | [Issues](https://github.com/byronlu06/Data-Structures/issues/created_by/byronlu06) | [Commits](https://github.com/byronlu06/Data-Structures/commits?author=byronlu06) | [Team Github](https://github.com/PunarvasuS/PopcornCritics) |
+
+## 3/21/22 5.5 - 5.6 Notes
+
+### 5.5
+
+#### Video 1; Intellectual Property
+
+- a work or invention that is the result of creativity to which one has rights 
+- Copyright 
+  - protects IP
+  - keeps anyone from using it w/o express permission 
+- Plagiarism 
+  - presenting someone else's material as your own
+- Legal ways to use others' material:
+  - open source
+  - open access
+- Creative Commons
+  - free licenses - you can say how others can use your IP
+- Open Source
+  - free for anyone to use
+  - may be redistributed and modified
+- Open Access
+  - online research output
+  - free of all access restrictions
+  - free of many restrictions on use (copyright or license restrictions)
+
+#### TPS Questions
+
+### 5.6
+
+#### Video 1: Personally Identifiable Information - information specific to an individual
+
+- age
+- race
+- phone #
+- SSN
+- DoB
+- email
+- mailing address
+- medical info
+- credit card info
+- identity & $$$ theft, impersonation
+- Pros - enhance a user's online experience 
+- Cons - exploited if privacy and other protections are ignored
+
+#### Video 2: Authentication
+
+- protect devices and info from unauthorized access 
+- Measures 
+  - strong passwords 
+  
+  - 10<= characters 
+  - must contain 
+  - symbol 
+  - number 
+  - lower & uppercase letters 
+        - Multi-Factor Authentication
+          - Types of authentication 
+            - What you know 
+            - What you have 
+            - What you are 
+- Virus and Malware 
+  - malicious programs that ttry to access things they aren't supposed to
+  - often intended to damage computing system or take control 
+  - either pose as legitimate program or attached with legitimate program 
+- Encryption - encoding data to prevent unauthorized access 
+- Decryption - the process of decoding data
+- 2 Types of Encryption 
+  - Symmetric Encryption 
+        - uses one key to both encrypt and decrypt
+  - Asymmetric Encryption
+        - Public Key encryption - uses two keys
+          - a public key for encrypting
+          - a private key for decrypting 
+        - Sender does not need the receiver's private key to decrypt 
+        - the receiver's private key IS required to decrypt the message
+
+#### Video 3: Risks to Personal Safety 
+
+- Phishing - attempt to trick the user into providing personal info 
+- Phishing Emails 
+  - often look like they're from a company you trust 
+  - trick you into clicking a link or opening an attachment 
+  - clicking a link or opening an attachment in a phishing email will cause unexpected harm 
+  - virus installed on your computer 
+  - spoofed banking website 
+  - Keylogger
+        - records every keystroke to gain fraudulent access to passwords or other confidential info
+- Rogue Access Point 
+- a wireless network that can give unauthorized access to secure networks 
+
+#### TPS Questions
+
 ## 3/14/22 5.3 - 5.4 Notes
 
 ### 5.3
@@ -155,96 +253,3 @@ Is paper or red tape blocking digital empowerment? Are there such barriers at De
 - Paper/red tape does block digital empowerment. Specifically at Del Norte (& PUSD at large), the school Wi-Fi blocks many websites.
 The school Chromebooks even block some Chrome extensions, like foreign language accent extensions.
 I ran into this problem in Spanish, where I physically could not answer some questions because of this restriction.
-
-
-## 3/21/22 5.5 - 5.6 Notes
-
-### 5.5
-
-#### Video 1; Intellectual Property
-
-- a work or invention that is the result of creativity to which one has rights 
-- Copyright 
-  - protects IP
-  - keeps anyone from using it w/o express permission 
-- Plagiarism 
-  - presenting someone else's material as your own
-- Legal ways to use others' material:
-  - open source
-  - open access
-- Creative Commons
-  - free licenses - you can say how others can use your IP
-- Open Source
-  - free for anyone to use
-  - may be redistributed and modified
-- Open Access
-  - online research output
-  - free of all access restrictions
-  - free of many restrictions on use (copyright or license restrictions)
-
-#### TPS Questions
-
-### 5.6
-
-#### Video 1: Personally Identifiable Information - information specific to an individual
-
-- age
-- race
-- phone #
-- SSN
-- DoB
-- email
-- mailing address
-- medical info
-- credit card info
-- identity & $$$ theft, impersonation
-- Pros - enhance a user's online experience 
-- Cons - exploited if privacy and other protections are ignored
-
-#### Video 2: Authentication
-
-- protect devices and info from unauthorized access 
-- Measures 
-  - strong passwords 
-  
-  - 10<= characters 
-  - must contain 
-  - symbol 
-  - number 
-  - lower & uppercase letters 
-        - Multi-Factor Authentication
-          - Types of authentication 
-            - What you know 
-            - What you have 
-            - What you are 
-- Virus and Malware 
-  - malicious programs that ttry to access things they aren't supposed to
-  - often intended to damage computing system or take control 
-  - either pose as legitimate program or attached with legitimate program 
-- Encryption - encoding data to prevent unauthorized access 
-- Decryption - the process of decoding data
-- 2 Types of Encryption 
-  - Symmetric Encryption 
-        - uses one key to both encrypt and decrypt
-  - Asymmetric Encryption
-        - Public Key encryption - uses two keys
-          - a public key for encrypting
-          - a private key for decrypting 
-        - Sender does not need the receiver's private key to decrypt 
-        - the receiver's private key IS required to decrypt the message
-
-#### Video 3: Risks to Personal Safety 
-
-- Phishing - attempt to trick the user into providing personal info 
-- Phishing Emails 
-  - often look like they're from a company you trust 
-  - trick you into clicking a link or opening an attachment 
-  - clicking a link or opening an attachment in a phishing email will cause unexpected harm 
-  - virus installed on your computer 
-  - spoofed banking website 
-  - Keylogger
-        - records every keystroke to gain fraudulent access to passwords or other confidential info
-- Rogue Access Point 
-- a wireless network that can give unauthorized access to secure networks 
-
-#### TPS Questions
