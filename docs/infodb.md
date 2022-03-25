@@ -1,7 +1,7 @@
 {% include nav.html %}
 {% include project.html %}
 
-## 3/15/22 - [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#InfoDb.py)
+## 3/15/22 - [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py)
 ```
 InfoDb = []
 # List with dictionary records placed in a list

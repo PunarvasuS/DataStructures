@@ -14,7 +14,7 @@
 
 ### 5.5
 
-#### Video 1; Intellectual Property
+#### Video 1: Intellectual Property
 
 - a work or invention that is the result of creativity to which one has rights 
 - Copyright 
@@ -36,6 +36,15 @@
   - free of many restrictions on use (copyright or license restrictions)
 
 #### TPS Questions
+
+MIT License
+- Allows user to edit the software, use it for commercial use, and to distribute it to other people. However, if you were to use this license that means that the creator of the code is not responsible for fixing the code if you break it and is not responsible for any harm that the code may cause.
+
+GPL
+- Allows many of the same permissions as the MIT license but they also allow patent use. That means that the all contributors must express patent rights. In addition to this additional requirement, there are some additional conditions that are applied. Some of these conditions are that the source code must be made available when the licensed material is distributed, modifications to the software must be recorded and that the same license must apply to the modifications as the original code.
+
+Mozilla Public License
+- This does very similar things to the GPL licenses but there are some slight but very major changes. The Mozilla Public License states that modification to existing files must have the same license. This means that if the licensed work is being used in a larger piece of work, the source code doesn't have to be distributed and the terms can be changed. There is also an additional limitation to this license. That is the trademark license that states that it does not grant trademark rights.
 
 ### 5.6
 
@@ -101,6 +110,36 @@
 - a wireless network that can give unauthorized access to secure networks 
 
 #### TPS Questions
+
+1. Describe PII you have seen on project in CompSci Principles.
+- PII that I have seen on projects in CompSci Principles are in the AboutMe pages put in the websites.
+- These about me pages usually had information about us as a person.
+- It could have pictures of us and our names.
+- Some people put their email adresses or maybe their birthdate.
+- Nothing too serious was put in projects for CompSci Principles which is good.
+2. What are your feelings about PII and your exposure? 
+- I feel that there are some PII which is okay to expose to te public and the world and some PII must be kept personal at almost all costs.
+- I think that everyone has PII and that it is important to keep what need's to be safe, safe.
+- For example, stuff like your name. your birthdate, what school you got to and what you may look like are all information that is almost completely public.
+- Other information such as your social security number, your tax records, and maybe credentials or two-factor credentials
+are absolutely necessary to keep silent because if this information is leaked out, you can get your identity stolen.
+3. Describe good and bad passwords? What is another step that is used to assist in authentication.
+- Good passwords are passwords that are long, convoluted, and have a mixture of characters, letters and numbers to make it hard to guess.
+- Bad passwords are easy to guess and can easily be bruteforced which makes the system very very unsafe. Usually good passwords are at least 8 letters long, has both lowercase and uppercase letters, characters, and numbers. Another step that is used to assist in authentication is two-factor authentication. That means that there are actually two keys that are needed to authenticate something such as a password and a biometric scan. Maybe there are two different passwords that must be used.
+4. Try to describe Symmetric and Asymmetric encryption.
+- Symmetric encryption is where one key is used to both encrypt the information and decrypt the information.
+- This means that this key must be kept very safe or else it can used for both encrypting and decrypting.
+- An asymmetric encryption is an encryption where there are two keys that are used for decrypting and encrypting.
+- A public key is used for encrypting the information while a private key is used for decrypting the information.
+5. Provide and example of encryption we used in deployment.
+- An example of encryption we used in deployment is on the software to update the deployed website.
+- The software that is being used to update the deployed website requires a password to enter.
+- That means that there is encryption since a password is being used to protect data.
+6. Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+- I have never actually fell for a phishing scheme.
+- I've never had my information stolen or anything like that which I feel very lucky about.
+- Although I have never learned about phishing schemes the hard way, I understand what they can look like and what they so I can avoid falling for them.I know that generally phishing attempts will include asking for very personal information generally through an email.
+- The phishing attempt might claim to be the bank or something that is really important in order to try to trick you into clicking and giving the information needed.
 
 ## 3/14/22 5.3 - 5.4 Notes
 

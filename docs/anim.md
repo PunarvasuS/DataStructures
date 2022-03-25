@@ -1,7 +1,7 @@
 {% include nav.html %}
 {% include project.html %}
 
-## 3/10/22 - [Animation](https://replit.com/@LordPotashmallo/Menu#InfoDb.py)
+## 3/10/22 - [Animation](https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py)
 
 ```
 import time

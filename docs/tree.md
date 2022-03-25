@@ -1,7 +1,7 @@
 {% include nav.html %}
 {% include project.html %}
 
-## 3/9/22 - [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#tree.py)
+## 3/9/22 - [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#week_0/tree.py)
 
 ```
 import math

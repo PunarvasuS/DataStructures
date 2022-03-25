@@ -3,6 +3,7 @@
 
 # [GitHub](https://github.com/PunarvasuS/DataStructures/)
 # [Replit](https://replit.com/@LordPotashmallo/)
+## [Replit Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
 
 # Data Structures Project
 
