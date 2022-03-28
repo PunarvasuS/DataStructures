@@ -3,8 +3,9 @@
 
 # [GitHub](https://github.com/PunarvasuS/DataStructures/)
 # [Replit](https://replit.com/@LordPotashmallo/)
-## [Replit Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
-
+## [Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
+## Embed
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@LordPotashmallo/Menu?lite=true#src/menu.py"></iframe>
 # Data Structures Project
 
 ## Timebox
