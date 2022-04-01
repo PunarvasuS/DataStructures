@@ -24,24 +24,24 @@
    </td>
     <td> 
        
-- a work or invention that is the result of creativity to which one has rights 
-- Copyright 
-  - protects IP
-  - keeps anyone from using it w/o express permission 
-- Plagiarism 
-  - presenting someone else's material as your own
-- Legal ways to use others' material:
-  - open source
-  - open access
-- Creative Commons
-  - free licenses - you can say how others can use your IP
-- Open Source
-  - free for anyone to use
-  - may be redistributed and modified
-- Open Access
-  - online research output
-  - free of all access restrictions
-  - free of many restrictions on use (copyright or license restrictions)
+* a work or invention that is the result of creativity to which one has rights 
+* Copyright 
+  * protects IP
+  * keeps anyone from using it w/o express permission 
+* Plagiarism 
+  * presenting someone else's material as your own
+* Legal ways to use others' material:
+  * open source
+  * open access
+* Creative Commons
+  * free licenses - you can say how others can use your IP
+* Open Source
+  * free for anyone to use
+  * may be redistributed and modified
+* Open Access
+  * online research output
+  * free of all access restrictions
+  * free of many restrictions on use (copyright or license restrictions)
    </td>
    </tr>
 </table>
