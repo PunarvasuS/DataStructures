@@ -3,11 +3,28 @@
 # Punarvasu Sangam's Data Structures Documentation
 
 # Review Tickets
-Week # | Review Ticket Link
------------ | -------------------------------------------------------------------
-Week 2 | [Review Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/27)
-Week 1 | [Review Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/20)
-Week 0 | [Review Ticket](https://github.com/PunarvasuS/PopcornCritics/issues/4)
+
+<table>
+   <tr>
+    <th>Week #</th>
+    <th>Review Ticket Link</th>
+   </tr>
+  
+   <tr>
+    <td>Week 2</td>
+     <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/27">Review Ticket</a></td>
+   </tr>
+  
+  <tr>
+    <td>Week 1</td>
+    <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/20">Review Ticket</a></td>
+   </tr>
+  
+  <tr>
+    <td>Week 0</td>
+    <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/4">Review Ticket</a></td>
+   </tr>
+</table>
 
 # [TPS Notes & Questions](https://punarvasus.github.io/DataStructures/tps)
 
