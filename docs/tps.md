@@ -43,6 +43,7 @@
   - free of all access restrictions
   - free of many restrictions on use (copyright or license restrictions)
    </td>
+   </tr>
 </table>
 
 <table>
