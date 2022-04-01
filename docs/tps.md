@@ -23,25 +23,26 @@
       Video 1: Intellectual Property
    </td>
     <td> 
-       
-* a work or invention that is the result of creativity to which one has rights 
-* Copyright 
-  * protects IP
-  * keeps anyone from using it w/o express permission 
-* Plagiarism 
-  * presenting someone else's material as your own
-* Legal ways to use others' material:
-  * open source
-  * open access
-* Creative Commons
-  * free licenses - you can say how others can use your IP
-* Open Source
-  * free for anyone to use
-  * may be redistributed and modified
-* Open Access
-  * online research output
-  * free of all access restrictions
-  * free of many restrictions on use (copyright or license restrictions)
+    <ul>   
+       <li>a work or invention that is the result of creativity to which one has rights</li>
+<li>Copyright</li> 
+  <li>protects IP</li>
+  <li>keeps anyone from using it w/o express permission</li>
+<li>Plagiarism</li>
+  <li>presenting someone else's material as your own</li>
+<li>Legal ways to use others' material:</li>
+  <li>open source</li>
+  <li>open access</li>
+<li>Creative Commons</li>
+  <li>free licenses - you can say how others can use your IP</li>
+<li>Open Source</li>
+  <li>free for anyone to use</li>
+  <li>may be redistributed and modified</li>
+<li>Open Access</li>
+  <li>online research output</li>
+  <li>free of all access restrictions</li>
+  <li>free of many restrictions on use (copyright or license restrictions)</li>
+       </ul>
    </td>
    </tr>
 </table>
