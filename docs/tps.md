@@ -12,6 +12,52 @@
 
 ## 3/21/22 5.5 - 5.6 Notes
 
+<table>
+   <tr>
+    <th>5.5 Notes</th>
+   </tr>
+<tr>
+    <td> Video 1: Intellectual Property
+
+- a work or invention that is the result of creativity to which one has rights 
+- Copyright 
+  - protects IP
+  - keeps anyone from using it w/o express permission 
+- Plagiarism 
+  - presenting someone else's material as your own
+- Legal ways to use others' material:
+  - open source
+  - open access
+- Creative Commons
+  - free licenses - you can say how others can use your IP
+- Open Source
+  - free for anyone to use
+  - may be redistributed and modified
+- Open Access
+  - online research output
+  - free of all access restrictions
+  - free of many restrictions on use (copyright or license restrictions)</td>
+</table>
+
+<table>
+   <tr>
+    <th>5.5 Questions</th>
+   </tr>
+<tr>
+   <td> 
+     
+MIT License
+- Allows user to edit the software, use it for commercial use, and to distribute it to other people. However, if you were to use this license that means that the creator of the code is not responsible for fixing the code if you break it and is not responsible for any harm that the code may cause.
+
+GPL
+- Allows many of the same permissions as the MIT license but they also allow patent use. That means that the all contributors must express patent rights. In addition to this additional requirement, there are some additional conditions that are applied. Some of these conditions are that the source code must be made available when the licensed material is distributed, modifications to the software must be recorded and that the same license must apply to the modifications as the original code.
+
+Mozilla Public License
+- This does very similar things to the GPL licenses but there are some slight but very major changes. The Mozilla Public License states that modification to existing files must have the same license. This means that if the licensed work is being used in a larger piece of work, the source code doesn't have to be distributed and the terms can be changed. There is also an additional limitation to this license. That is the trademark license that states that it does not grant trademark rights.
+  </td>
+</table>
+    
+      
 ### 5.5
 
 #### Video 1: Intellectual Property
