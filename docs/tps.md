@@ -12,18 +12,14 @@
 
 ## 3/21/22 5.5 - 5.6 Notes
 
-## 5.5 Notes
 <table>
    <tr>
-    <th>Video Title</th>
-      <th>Notes</th>
+    <th>5.5 Notes</th>
    </tr>
 <tr>
-   <td>
-      Video 1: Intellectual Property
-   </td>
     <td>  
        
+Video 1: Intellectual Property
 - a work or invention that is the result of creativity to which one has rights
 - Copyright
   - protects IP
