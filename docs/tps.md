@@ -12,12 +12,7 @@
 
 ## 3/21/22 5.5 - 5.6 Notes
 
-<table>
-   <tr>
-    <th>5.5 Notes</th>
-   </tr>
-<tr>
-    <td>  
+### 5.6 Notes
        
 Video 1: Intellectual Property
 - a work or invention that is the result of creativity to which one has rights
@@ -38,16 +33,9 @@ Video 1: Intellectual Property
   - online research output</li>
   - free of all access restrictions</li>
   - free of many restrictions on use (copyright or license restrictions)</li>
-   </td>
-   </tr>
-</table>
 
-<table>
-   <tr>
-    <th>5.5 TPS Questions</th>
-   </tr>
-<tr>
-   <td> 
+#### TPS Questions
+  
      
 MIT License
 - Allows user to edit the software, use it for commercial use, and to distribute it to other people. However, if you were to use this license that means that the creator of the code is not responsible for fixing the code if you break it and is not responsible for any harm that the code may cause.
@@ -57,8 +45,6 @@ GPL
 
 Mozilla Public License
 - This does very similar things to the GPL licenses but there are some slight but very major changes. The Mozilla Public License states that modification to existing files must have the same license. This means that if the licensed work is being used in a larger piece of work, the source code doesn't have to be distributed and the terms can be changed. There is also an additional limitation to this license. That is the trademark license that states that it does not grant trademark rights.
-  </td>
-</table>
 
 
 ### 5.6
