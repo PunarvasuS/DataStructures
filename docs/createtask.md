@@ -26,3 +26,25 @@
 
 ## Snippets
 
+```
+try:
+  mean = mean(numList)
+  median = median(numList)
+  mode = mode(numList)
+  min = min(numList)
+  max = max(numList)
+  print('The list is: ')
+  for x in range(len(numList)):
+      print(numList[x], end=" ")
+  print()
+```
+```
+if OR(statInput, 'y', 'yes'):
+      print()
+      print('The mean is ' + str(mean) + '.')
+      print('The median is ' + str(median) + '.')
+      print('The mode is ' + str(mode) + '.')
+      print('The range is ' + str(min) + ' --> ' + str(max) + '.')
+  elif OR(statInput, 'n', 'no'):
+      print('Ok! This is the end of the program.')
+```
