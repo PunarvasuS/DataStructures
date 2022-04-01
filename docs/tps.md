@@ -12,13 +12,18 @@
 
 ## 3/21/22 5.5 - 5.6 Notes
 
+## 5.5 Notes
 <table>
    <tr>
-    <th>5.5 Notes</th>
+    <th>Video Title</th>
+      <th>Notes</th>
    </tr>
 <tr>
-    <td> Video 1: Intellectual Property
-
+   <td>
+      Video 1: Intellectual Property
+   </td>
+    <td> 
+       
 - a work or invention that is the result of creativity to which one has rights 
 - Copyright 
   - protects IP
@@ -36,7 +41,8 @@
 - Open Access
   - online research output
   - free of all access restrictions
-  - free of many restrictions on use (copyright or license restrictions)</td>
+  - free of many restrictions on use (copyright or license restrictions)
+   </td>
 </table>
 
 <table>
