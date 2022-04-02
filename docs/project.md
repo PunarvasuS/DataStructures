@@ -15,12 +15,12 @@
   </tr>
   <tr>
     <td> 03/30/22 </td>
-    <td> <a href="https://punarvasus.github.io/DataStructures/gcf" GCF </a> </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/gcf"> GCF </a> </td>
     <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_2/gcf.py"> GCF </a> </td>
   </tr>
   <tr>
     <td> 03/25/22 </td>
-    <td> <a href="https://punarvasus.github.io/DataStructures/palindrome" Palindrome </a> </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/palindrome"> Palindrome </a> </td>
     <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_2/palindrome.py"> Palindrome </a> </td>
   </tr>
   <tr>
