@@ -1,7 +1,11 @@
 {% include nav.html %}
 {% include project.html %}
 
-## 3/10/22 - [Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
+## 0/12/22 - [Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
+
+### Key Learnings:
+- how to make a menu in py
+  - (submenus made later on, so not included here)
 
 ```
 import math 

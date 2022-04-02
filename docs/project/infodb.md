@@ -1,7 +1,13 @@
 {% include nav.html %}
 {% include project.html %}
 
-## 3/15/22 - [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py)
+## 03/15/22 - [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py)
+
+### Key Learnings:
+- you can put a list within a value of a dict within a list
+- you can call funcs within themselves (recursion)
+  - IDK how I didn't know this
+
 ```
 InfoDb = []
 # List with dictionary records placed in a list

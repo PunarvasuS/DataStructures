@@ -3,6 +3,12 @@
 
 ## 3/9/22 - [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#week_0/tree.py)
 
+### Key Learnings:
+- replit mobile (the mobile site) is actually usable!
+  - i used it to write this program
+- Brian Tang added some more details (colored portions of the tree)
+- [More Details](#details)
+
 ```
 import math
 
@@ -25,6 +31,7 @@ while x <= layers:
 
 print(" " * math.floor(layers/1.11) + "***")
 ```
+## Details
 
 ### Declarations
 - The try: except: is to make sure the user input is int, and then continues with the rest of the program
@@ -41,7 +48,7 @@ print(" " * math.floor(layers/1.11) + "***")
 - The fifth line simply increments 'x' so that the loop ends at some point (i forgot to add it on my first run, and it was really annoying)
 - Prints asterisks somewhat in the middle of the tree
 
-My friend Ethan Guo's attempt at this challenge:
+My friend(Ethan Guo)'s attempt at this challenge:
 
 ```
 layers = input("How many layers of the pyramid: ")

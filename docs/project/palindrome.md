@@ -1,7 +1,9 @@
 {% include nav.html %}
 {% include project.html %}
 
-## [Palindrome](https://replit.com/@LordPotashmallo/Menu#week_2/palindrome.py)
+## 03/25/22 [Palindrome](https://replit.com/@LordPotashmallo/Menu#week_2/palindrome.py)
+
+### [Key Learnings](#note)
 ```
 import re
 
@@ -22,9 +24,11 @@ def tester():
     print("Oh no! Something went wrong!")
 ```
 ### Note
+
 I remember seeing [this video](https://www.youtube.com/watch?v=zp4BMR88260) by Tom Scott(one of my favorite YouTubers) a while ago, and saw that he used RegEx to compare those letters to a string.
 So, I decided I wanted to learn how to use RegEx.
 I don't know if this is the best approach, but I learned RegEx, so I went with it. 
+
 ### Explanations:
 
 ```

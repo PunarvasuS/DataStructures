@@ -1,9 +1,12 @@
 {% include nav.html %}
 {% include project.html %}
 
-Reused old files/functions (recur_factorial)
-Don't need self.comb, but have it anyways
-var comb stores the combinations formula but with recur_factorial
+## 03/24/22 [Combinations](https://replit.com/@LordPotashmallo/Menu#week_2/combo.py)
+
+### Key Learnings:
+- Reused old files/functions (recur_factorial)
+- Don't need 'self.comb', but have it anyways
+- var comb stores the combinations formula but with recur_factorial
 
 ```
 from week_2 import fibfac

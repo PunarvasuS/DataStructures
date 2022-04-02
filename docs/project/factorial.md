@@ -1,8 +1,9 @@
 {% include nav.html %}
 {% include project.html %}
 
-Only program where we actually need def __init__ and the self.whatever
-Pretty basic, just multiplying by previous term + recursion in tester()
+### Key Learnings
+- only program where we actually need def __init__ and the self.whatever
+- pretty basic, just multiplying by previous term + recursion in tester()
 
 ```
 class Factorial: 

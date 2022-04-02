@@ -1,7 +1,11 @@
 {% include nav.html %}
 {% include project.html %}
 
-## 3/10/22 - [Animation](https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py)
+## 03/10/22 - [Animation](https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py)
+
+### Key Learnings:
+- the existence of ANSI
+- how you can move some text to the right with a loop
 
 ```
 import time
