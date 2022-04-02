@@ -1,18 +1,60 @@
 {% include nav.html %}
 {% include project.html %}
-
-# [GitHub](https://github.com/PunarvasuS/DataStructures/)
-# [Replit](https://replit.com/@LordPotashmallo/)
-## [Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
-## Embed
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@LordPotashmallo/Menu?lite=true#src/menu.py"></iframe>
 # Data Structures Project
+## [GitHub](https://github.com/PunarvasuS/DataStructures/)
+## [Replit](https://replit.com/@LordPotashmallo/)
+### [Menu](https://replit.com/@LordPotashmallo/Menu#main.py)
 
 ## Timebox
 
-| Date | GH Page | Replit |
-| - | - | - |
-| 3/15/22 | [InfoDb Loops + Recursion](https://punarvasus.github.io/DataStructures/infodb) | [InfoDb Loops + Recursion](https://replit.com/@LordPotashmallo/Menu#InfoDb.py) |
-| 3/10/22 | [Menu](https://punarvasus.github.io/DataStructures/menu) | [Menu](https://replit.com/@LordPotashmallo/Menu#main.py) |
-| 3/10/22 | [Animation](https://punarvasus.github.io/DataStructures/anim) | [Animation](https://replit.com/@LordPotashmallo/Menu#animation.py) |
-| 3/9/22  | [Christmas Tree](https://punarvasus.github.io/DataStructures/tree) | [Christmas Tree](https://replit.com/@LordPotashmallo/Menu#tree.py) |
+<table>
+  <tr>
+    <th> Date </th>
+    <th> GH-Page </th>
+    <th> Repl </th>
+  </tr>
+  <tr>
+    <td> 03/30/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/gcf" GCF </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_2/gcf.py"> GCF </a> </td>
+  </tr>
+  <tr>
+    <td> 03/25/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/palindrome" Palindrome </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_2/palindrome.py"> Palindrome </a> </td>
+  </tr>
+  <tr>
+    <td> 03/22/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/factorial"> Factorial </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_2/factorial.py"> Factorial </a> </td>
+  </tr>
+  <tr>
+    <td> 03/24/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/combo"> Combinations </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_2/combo.py"> Combinations </a> </td>
+  </tr>
+  <tr>
+    <td> 03/15/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/infodb"> InfoDb + Recursion </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_1/InfoDb.py"> InfoDb + Recursion </a> </td>
+  </tr
+  <tr>
+    <td> 03/12/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/menu"> Menu </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#main.py"> Menu </a> </td>
+  </tr>
+  <tr>
+    <td> 03/10/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/anim"> Animation </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_0/animation.py"> Animation </a> </td>
+  </tr>
+  <tr>
+    <td> 03/09/22 </td>
+    <td> <a href="https://punarvasus.github.io/DataStructures/tree"> Christmas Tree </a> </td>
+    <td> <a href="https://replit.com/@LordPotashmallo/Menu#week_0/tree.py"> Christmas Tree </a> </td>
+  </tr>
+  
+</table>
+
+## Embed
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@LordPotashmallo/Menu?lite=true#src/main.py"></iframe>
