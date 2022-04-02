@@ -4,13 +4,28 @@
 
 ## Table of Contents:
 
+<table>
+  <tr>
+    <th> Topic </th>
+  </tr>
+  <tr>
+    <td> <a href="https://punarvasus.github.io/DataStructures/tps#03/21/22-5.5---5.6-notes"> 5.5 - 5.6</a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://punarvasus.github.io/DataStructures/tps#03/14/22-5.3---5.4-notes"> 5.3 - 5.4 </a> </td>
+  </tr>
+  <tr>
+    <td> <a href="https://punarvasus.github.io/DataStructures/tps#03/07/22-5.1---5.2-notes"> 5.1 - 5.2 </a> </td>
+  </tr>
+</table>
+
 | Topic | 
 | - | 
-| [5.5 - 5.6](https://punarvasus.github.io/DataStructures/tps#3-21-22-5.5---5.6-Notes) |
-| [5.3 - 5.4](https://punarvasus.github.io/DataStructures/tps#3-14-22-5.3---5.4-Notes) |
-| [5.1 - 5.2](https://punarvasus.github.io/DataStructures/tps#3-7-22-5.1---5.2-Notes) |
+| [5.5 - 5.6](https://punarvasus.github.io/DataStructures/tps#03/21/22-5.5---5.6-notes) |
+| [5.3 - 5.4](https://punarvasus.github.io/DataStructures/tps#03/14/22-5.3---5.4-notes) |
+| [5.1 - 5.2](https://punarvasus.github.io/DataStructures/tps#03/07/22-5.1---5.2-notes) |
 
-## 3/21/22 5.5 - 5.6 Notes
+## 03/21/22 5.5 - 5.6 Notes
 
 ### 5.6 Notes
        
@@ -142,7 +157,7 @@ are absolutely necessary to keep silent because if this information is leaked ou
 - Although I have never learned about phishing schemes the hard way, I understand what they can look like and what they so I can avoid falling for them.I know that generally phishing attempts will include asking for very personal information generally through an email.
 - The phishing attempt might claim to be the bank or something that is really important in order to try to trick you into clicking and giving the information needed.
 
-## 3/14/22 5.3 - 5.4 Notes
+## 03/14/22 5.3 - 5.4 Notes
 
 ### 5.3
 
@@ -206,7 +221,8 @@ CS P has 150 students. Describe a crowdsource idea and how you might initiate it
 - Our idea for our website could very well use crowdsourcing. We're planning on having a site that has movie reviews.
 What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
 - We could colelct movie revies from Del Norte students, and then include the average of those reviews as one of our reviews on the site.
-## 3/7/22 5.1 - 5.2 Notes
+
+## 03/07/22 5.1 - 5.2 Notes
 
 ### 5.1 
 
