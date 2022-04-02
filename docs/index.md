@@ -9,17 +9,18 @@
     <th>Week #</th>
     <th>Review Ticket Link</th>
    </tr>
-  
+   <tr>
+    <td>Week 3</td>
+     <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/30">Review Ticket</a></td>
+   </tr>
    <tr>
     <td>Week 2</td>
      <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/27">Review Ticket</a></td>
    </tr>
-  
   <tr>
     <td>Week 1</td>
     <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/20">Review Ticket</a></td>
    </tr>
-  
   <tr>
     <td>Week 0</td>
     <td><a href="https://github.com/PunarvasuS/PopcornCritics/issues/4">Review Ticket</a></td>
