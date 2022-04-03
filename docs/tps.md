@@ -2,29 +2,6 @@
 
 # CB Notes + TPS Actions
 
-## Table of Contents:
-
-<table>
-  <tr>
-    <th> Topic </th>
-  </tr>
-  <tr>
-    <td> <a href="https://punarvasus.github.io/DataStructures/tps#03/21/22-5.5---5.6-notes"> 5.5 - 5.6</a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://punarvasus.github.io/DataStructures/tps#03/14/22-5.3---5.4-notes"> 5.3 - 5.4 </a> </td>
-  </tr>
-  <tr>
-    <td> <a href="https://punarvasus.github.io/DataStructures/tps#03/07/22-5.1---5.2-notes"> 5.1 - 5.2 </a> </td>
-  </tr>
-</table>
-
-| Topic | 
-| - | 
-| [5.5 - 5.6](https://punarvasus.github.io/DataStructures/tps#03/21/22-5.5---5.6-notes) |
-| [5.3 - 5.4](https://punarvasus.github.io/DataStructures/tps#03/14/22-5.3---5.4-notes) |
-| [5.1 - 5.2](https://punarvasus.github.io/DataStructures/tps#03/07/22-5.1---5.2-notes) |
-
 ## 03/21/22 5.5 - 5.6 Notes
 
 ### 5.6 Notes
