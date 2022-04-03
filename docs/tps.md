@@ -40,14 +40,14 @@ Video 1: Intellectual Property
   - open source
   - open access
 - Creative Commons
-  - free licenses - you can say how others can use your IP</li>
-- Open Source</li>
-  - free for anyone to use</li>
-  - may be redistributed and modified</li>
+  - free licenses - you can say how others can use your IP
+- Open Source
+  - free for anyone to use
+  - may be redistributed and modified
 - Open Access</li>
-  - online research output</li>
-  - free of all access restrictions</li>
-  - free of many restrictions on use (copyright or license restrictions)</li>
+  - online research output
+  - free of all access restrictions
+  - free of many restrictions on use (copyright or license restrictions)
 
 #### TPS Questions
   
