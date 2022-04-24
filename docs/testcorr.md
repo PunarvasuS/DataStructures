@@ -2,7 +2,7 @@
 
 # Test Corrections
 
-## Practice Quiz 1:
+## Practice Quiz #1 (47/50):
 ### Q1
 ![Q1](https://user-images.githubusercontent.com/89180494/164954279-d813789f-ae79-4a79-af55-23039293e2f0.png)
 I misread the question, and thought it asked 'MOST likely', so I picked the 'memory' answer instead of the 'statements' answer.
@@ -15,7 +15,7 @@ I don't know why this one is wrong, there is no explanation on how D proves the 
 ![Q45](https://user-images.githubusercontent.com/89180494/164954426-3cf3244d-8b64-45ff-afa9-08d61708e563.png)
 The explanation for this question is weird. I don't know how 'people and society' includes election results, but I now realize that you cannot view the price of a product when you only have the amount of times it's been searched.
 
-## Practice Quiz #2
+## Practice Quiz #2 (45/50):
 ### Q1
 
 ![2Q2](https://user-images.githubusercontent.com/89180494/164954502-4f5f7147-5b73-44a5-9894-924233bacbd9.png)
