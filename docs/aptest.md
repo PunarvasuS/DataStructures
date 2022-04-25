@@ -10,7 +10,7 @@ I did pretty good on the tests (45/50 & 47/50). I studied a little, but not much
 
 ## CB Create Task Video:
 https://user-images.githubusercontent.com/89180494/165164162-bdd9e88b-e62e-4988-bded-bbf311a74d49.mp4
-
+https://drive.google.com/file/d/1PVltaEX5J6o1pTB9W4j07vvzn9cWPGoc/view?usp=sharing
 ## Practice Quiz #1 (47/50):
 ### Q1
 ![Q1](https://user-images.githubusercontent.com/89180494/164954279-d813789f-ae79-4a79-af55-23039293e2f0.png)
