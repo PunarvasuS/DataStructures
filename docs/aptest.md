@@ -2,6 +2,15 @@
 
 # Test Corrections
 
+## Study Plan
+Do tests, do corrections, study over weekend for Week 6 practice tests
+
+## Study Reflection
+I did pretty good on the tests (45/50 & 47/50). I studied a little, but not much, so I think these are good scores. I will study all three tests before the real AP test, so I can absolutely guarantee a 90%< score.
+
+## CB Create Task Video:
+https://user-images.githubusercontent.com/89180494/165164162-bdd9e88b-e62e-4988-bded-bbf311a74d49.mp4
+
 ## Practice Quiz #1 (47/50):
 ### Q1
 ![Q1](https://user-images.githubusercontent.com/89180494/164954279-d813789f-ae79-4a79-af55-23039293e2f0.png)
