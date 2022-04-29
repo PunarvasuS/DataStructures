@@ -11,6 +11,7 @@ I did pretty good on the tests (45/50 & 47/50). I studied a little, but not much
 ## CB Create Task Video:
 https://user-images.githubusercontent.com/89180494/165164162-bdd9e88b-e62e-4988-bded-bbf311a74d49.mp4
 https://drive.google.com/file/d/1PVltaEX5J6o1pTB9W4j07vvzn9cWPGoc/view?usp=sharing
+
 ## Practice Quiz #1 (47/50):
 ### Q1
 ![Q1](https://user-images.githubusercontent.com/89180494/164954279-d813789f-ae79-4a79-af55-23039293e2f0.png)
@@ -46,3 +47,20 @@ I thought the title would be necessary for organization reasons, but I guess not
 ### Q41
 ![image](https://user-images.githubusercontent.com/89180494/164955581-85bdab43-e084-4661-a2c8-67bd0b378bd5.png)
 IDK why I picked this one, it logically just does not make sense. You should count the # of transcations/payments, not the # of total items purchased.
+
+## Practice Quiz #2 (45/50):
+
+### Q14
+![image](https://user-images.githubusercontent.com/89180494/165834878-3a6e495d-6ecf-405e-9f71-439b6a6c0b0e.png)
+The procedure only checks individual list elements, not the contents of a nested list. So, if 'Ben' is inside of the nested list, the procedure will not return an index value, meaning it did not function corectly.
+
+### Q17
+![image](https://user-images.githubusercontent.com/89180494/165835693-28e3255b-50f1-44e3-913d-0b56c1223b3d.png)
+When you use 'return', it breaks the loop. So, the first value that the procedure detects that is smaller than the first value of the list.
+
+### Q18
+![image](https://user-images.githubusercontent.com/89180494/165836164-11298dab-dc77-47a5-b420-b176a1fa1bed.png)
+This procedure returns True whenever it encounters a positive number, regardless of whether or not the rest of the list contains negative numbers.
+
+
+### Q
