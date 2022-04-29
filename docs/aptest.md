@@ -65,3 +65,7 @@ This procedure returns True whenever it encounters a positive number, regardless
 ### Q21
 ![image](https://user-images.githubusercontent.com/89180494/165893901-71ea1a8a-4b07-43bf-b86e-4be651cd9825.png)
 You dont use encryption keys from a vulnerability to determine a user's password. "Data mining" in this case means using outside sources and information to guess a user's password.
+
+### Q39
+![image](https://user-images.githubusercontent.com/89180494/165894083-02c9a2db-2a03-4814-b263-2b7ae2df95ce.png)
+I didn't realize that the question was asking for year 12, not year 11. 30.6 seemed reasonable to me for year 11, so I picked that.
