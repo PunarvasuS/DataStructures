@@ -62,5 +62,6 @@ When you use 'return', it breaks the loop. So, the first value that the procedur
 ![image](https://user-images.githubusercontent.com/89180494/165836164-11298dab-dc77-47a5-b420-b176a1fa1bed.png)
 This procedure returns True whenever it encounters a positive number, regardless of whether or not the rest of the list contains negative numbers.
 
-
-### Q
+### Q21
+![image](https://user-images.githubusercontent.com/89180494/165893901-71ea1a8a-4b07-43bf-b86e-4be651cd9825.png)
+You dont use encryption keys from a vulnerability to determine a user's password. "Data mining" in this case means using outside sources and information to guess a user's password.
