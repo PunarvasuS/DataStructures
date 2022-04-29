@@ -48,7 +48,7 @@ I thought the title would be necessary for organization reasons, but I guess not
 ![image](https://user-images.githubusercontent.com/89180494/164955581-85bdab43-e084-4661-a2c8-67bd0b378bd5.png)
 IDK why I picked this one, it logically just does not make sense. You should count the # of transcations/payments, not the # of total items purchased.
 
-## Practice Quiz #2 (45/50):
+## Practice Quiz #3 (45/50):
 
 ### Q14
 ![image](https://user-images.githubusercontent.com/89180494/165834878-3a6e495d-6ecf-405e-9f71-439b6a6c0b0e.png)
