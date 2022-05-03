@@ -5,13 +5,19 @@
 ## Study Plan
 - Do practice tests on College Board and review old MCQ tests
 - Review videos on missed questions and review old units
-- Week 1 (not present)
-- Week 2 (Units 5-11)
--  Monday: Review old practice MCQ quizzes.
--  Tuesday: Proctored AP Exam Day 3
--  Wednesday: Review old units, especially ones that involved missed questions on old practice MCQ quizzes.
--  Thursday: Correct AP Exam, review questions that were wrong and look over past notes regarding missed questions.
--  Friday: ASI Presentations
+### Week 1 (not present)
+### Week 2
+- Monday: Review two in class tests and practice wrong problems.
+- Tuesday: Proctored AP Exam Day 3
+- Wednesday: ASI prep day, create a script for Friday and if possible practice rehearsing
+- Thursday: Create task prep day, ensure all college board requirements are prepared for submission, go over video and written responses as well.
+- Friday: ASI event, practice lines before
+### Week 3
+- Monday: Create Task review day, finalize create task after goign over again and submit fully.
+- Tuesday: Crossover grading, prepare by possibly doing some of the optional MCQ quizzes and over notes.
+- Wednesday: Proctored AP Exam Day 4
+- Thursday: Correct test 4, then complete/finish the optional MCQ quizzes if not already, then go over missed questions on day 4
+- Friday: Crossover grading, plan to review all units over the weekened for preparation for AP Exam.
 
 ## CB Create Task Video:
 https://user-images.githubusercontent.com/89180494/165164162-bdd9e88b-e62e-4988-bded-bbf311a74d49.mp4
