@@ -3,10 +3,15 @@
 # Test Corrections
 
 ## Study Plan
-Do tests, do corrections, study over weekend for Week 6 practice tests
-
-## Study Reflection
-I did pretty good on the tests (45/50 & 47/50). I studied a little, but not much, so I think these are good scores. I will study all three tests before the real AP test, so I can absolutely guarantee a 90%< score.
+- Do practice tests on College Board and review old MCQ tests
+- Review videos on missed questions and review old units
+- Week 1 (not present)
+- Week 2 (Units 5-11)
+-  Monday: Review old practice MCQ quizzes.
+-  Tuesday: Proctored AP Exam Day 3
+-  Wednesday: Review old units, especially ones that involved missed questions on old practice MCQ quizzes.
+-  Thursday: Correct AP Exam, review questions that were wrong and look over past notes regarding missed questions.
+-  Friday: ASI Presentations
 
 ## CB Create Task Video:
 https://user-images.githubusercontent.com/89180494/165164162-bdd9e88b-e62e-4988-bded-bbf311a74d49.mp4
