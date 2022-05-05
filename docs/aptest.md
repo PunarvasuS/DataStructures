@@ -80,3 +80,9 @@ You dont use encryption keys from a vulnerability to determine a user's password
 ### Q39
 ![image](https://user-images.githubusercontent.com/89180494/165894083-02c9a2db-2a03-4814-b263-2b7ae2df95ce.png)
 I didn't realize that the question was asking for year 12, not year 11. 30.6 seemed reasonable to me for year 11, so I picked that.
+
+## Practice Quiz #4 (24/25):
+
+### Q7
+![image](https://user-images.githubusercontent.com/89180494/167018240-3879b3c0-8bd0-4b5b-8cf2-95b93430cc53.png)
+I miscounted when counting from the 1-2-4-8-16-32-64 as 6 bits intead of 7.
